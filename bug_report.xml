@@ -9,10 +9,10 @@
     <Environment>
       <OC>Android 10 QPA.190711.020, MIUI Global 12.0.8</OC>
       <Device>redmi note 8 pro</Device>
-      <App>ВКонтакте v.7.26</App>      
+      <App>Chrome v.103.0.5060.71</App>      
       </Environment>
     <Steps>
-      <1>Открыть веб сайт https://ksendzov.com/ через приложение ВКонтакте</1>
+      <1>Открыть веб сайт https://ksendzov.com/ через мобильный браузер</1>
       <2>Скроллить вниз до фотографии автора курса</2>      
       </Steps>
     <Result>строки &quot;27. Python....&quot; и &quot;ниже информация об авторе курса...&quot; накладываются друг на друга</Result> 
